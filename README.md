@@ -28,7 +28,7 @@ Similar to average fare per ride, the average fare per ride was lowest at Urban 
 
 Looking at the data further, it was observed that the total number of drivers is higher than the total number of rides in Urban cities. This suggests that some of the drivers do not get any rides or fares.
 
-![Total Fare by City type  ](analysis/Total Fare by City Type.png) 
+![Total Fare by City type  ](https://github.com/Dhanushree27/PyBer_Analysis/blob/main/analysis/Total%20Fare%20by%20City%20Type.png) 
 
 From the graph it can be seen that there are fluctuations in the fare generated, with a few weeks with higher profit compared to others. It can also be seen that there are few weeks, especially the first few weeks, where fare generated in Urban cities increases, but drops in Rural or Suburban cities. This suggests that there is a higher demand in those weeks in Urban cities compared to Suburban or Rural cities.
 
