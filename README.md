@@ -4,9 +4,11 @@
 This project was undertaken for PyBer, a ride-sharing app company valued at $2.3 billion. The purpose of the project is to analyze all the rideshare data from January to early May of 2019 and create a compelling visualization for the CEO, V. Isualize. The dataset consisted of two files:
 - city_data, with details of the cities such as type of city and the number of drivers in each city
 - ride_data, with details of the rides taken in each city
+
 The purpose of the latest assignment was to:
 - Create a summary dataframe of ride-sharing data by city type
 - Create a multiple-line chart of total fares over time for each city type
+
 The analysis was carried out using 'Pandas' and 'Matplotlib' libraries in Python on Jupyter notebook.
 
 ## Results
@@ -26,7 +28,7 @@ Similar to average fare per ride, the average fare per ride was lowest at Urban 
 
 Looking at the data further, it was observed that the total number of drivers is higher than the total number of rides in Urban cities. This suggests that some of the drivers do not get any rides or fares.
 
-![Total Fare by City type  ](https://github.com/Dhanushree27/PyBer_Analysis/blob/main/analysis/Total_Fare_by_City_Type.PNG) 
+![Total Fare by City type  ](analysis/Total Fare by City Type.png) 
 
 From the graph it can be seen that there are fluctuations in the fare generated, with a few weeks with higher profit compared to others. It can also be seen that there are few weeks, especially the first few weeks, where fare generated in Urban cities increases, but drops in Rural or Suburban cities. This suggests that there is a higher demand in those weeks in Urban cities compared to Suburban or Rural cities.
 
