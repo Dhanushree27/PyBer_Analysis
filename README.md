@@ -1,6 +1,9 @@
 # PyBer Data Analysis
 
 ## Overview of the project
+
+![image](https://user-images.githubusercontent.com/90650562/151721349-1dd7d001-7628-49b0-acea-ce80af2249ce.png)
+
 This project was undertaken for PyBer, a ride-sharing app company valued at $2.3 billion. The purpose of the project is to analyze all the rideshare data from January to early May of 2019 and create a compelling visualization for the CEO, V. Isualize. The dataset consisted of two files:
 - city_data, with details of the cities such as type of city and the number of drivers in each city
 - ride_data, with details of the rides taken in each city
